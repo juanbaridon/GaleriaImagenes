@@ -2,8 +2,12 @@ body {
     background-color: rgb(255, 255, 165);
 }
 
+.cont-imagen{
+    text-align: center;
+}
+
 .image{
-    border: 5px solid green;
+    border: 5px solid #4c4c4c;
     border-radius: 10px;
     height: 400px;
 }
