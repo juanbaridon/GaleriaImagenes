@@ -17,3 +17,11 @@ body {
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
 }
+
+p {
+    text-align: center;
+    color: white;
+    background-color: slategray;
+    border: 2px solid slategray;
+    border-radius: 10px;
+}
