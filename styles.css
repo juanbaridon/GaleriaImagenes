@@ -39,3 +39,11 @@ h1 {
     display: flex;
     justify-content: center;
 }
+
+p {
+    text-align: center;
+    color: white;
+    background-color: slategray;
+    border: 2px solid slategray;
+    border-radius: 10px;
+}
