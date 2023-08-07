@@ -21,3 +21,10 @@ h1 {
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
 }
+.titulo{
+    background-color: #eb7f61;
+    color: #ececec;
+    border-radius: 20px;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
